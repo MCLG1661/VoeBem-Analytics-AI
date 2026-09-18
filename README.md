@@ -258,7 +258,8 @@ Entre as possíveis extensões do projeto estão:
 
 Profissional com experiência em gestão, marketing, operações e projetos, desenvolvendo soluções que integram **negócios, dados, analytics e Inteligência Artificial**.
 
-GitHub: **MCLG1661**
+- 💻 GitHub: [MCLG1661](https://github.com/MCLG1661)
+- 💼 LinkedIn: [Marcus Corrêa Lopes Guedes](https://www.linkedin.com/in/marcusguedes/)
 
 ---
 
