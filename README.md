@@ -297,4 +297,4 @@ Dados públicos disponibilizados pela **Agência Nacional de Aviação Civil —
 
 ## 📄 Contexto
 
-Projeto desenvolvido como aplicação prática de conceitos de **Engenharia de Dados com IA**, explorando uma arquitetura moderna de dados no Databricks e sua integração com recursos de Inteligência Artificial Generativa.
+Projeto desenvolvido a partir da aplicação prática de conceitos na imersão **Engenharia de Dados com IA** da Alura, explorando uma arquitetura moderna de dados no Databricks e sua integração com recursos de Inteligência Artificial Generativa.
