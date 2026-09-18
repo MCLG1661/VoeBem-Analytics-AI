@@ -151,6 +151,32 @@ Os testes demonstraram a integração entre **Engenharia de Dados, Analytics e I
 
 ---
 
+## 📸 Resultados do VoeBem Flight Analytics
+
+A camada de IA foi validada com consultas em linguagem natural sobre os principais indicadores da camada Gold. Abaixo estão alguns exemplos das respostas geradas pelo **VoeBem Flight Analytics** no Databricks.
+
+### ✈️ Companhias aéreas com maior volume de voos
+
+![Ranking de companhias aéreas gerado pelo VoeBem Flight Analytics](images/genie_companhias.png)
+
+O agente consulta os indicadores consolidados por companhia aérea e apresenta o ranking de volume de voos em formato visual, acompanhado de uma interpretação dos resultados.
+
+### 📈 Evolução mensal do número de voos
+
+![Evolução mensal do número de voos gerada pelo VoeBem Flight Analytics](images/genie_evolucao_mensal.png)
+
+A consulta temporal permite acompanhar a evolução mensal das operações e identificar períodos de maior e menor movimentação ao longo da série analisada.
+
+### 🛫 Rotas com maior número de voos
+
+![Ranking das rotas com maior número de voos gerado pelo VoeBem Flight Analytics](images/genie_rotas.png)
+
+O agente também identifica as rotas de maior volume operacional, transformando as tabelas analíticas da camada Gold em respostas acessíveis por meio de linguagem natural.
+
+Esses exemplos demonstram o fluxo completo do projeto: **dados públicos → Engenharia de Dados → arquitetura Medallion → camada Gold → IA Generativa → insight de negócio**.
+
+---
+
 ## 🛠️ Tecnologias utilizadas
 
 - Databricks
