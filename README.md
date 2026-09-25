@@ -277,6 +277,12 @@ Entre as possíveis extensões do projeto estão:
 - evolução da camada de IA para novos casos de uso.
 
 ---
+## 🙏 Agradecimento
+
+A **Alura**, por mais essa excelente imersão e aos professores **Guilherme Lima**, **Agnes Ruescas**, **Lucas Ribeiro Mata (Host da Imersão)** e **Oscar Guillermo Richieri Meyer**, aos especialistas e equipes da Alura pela iniciativa, pelo conteúdo compartilhado e pela oportunidade de explorar, na prática, a aplicação de agentes de Inteligência Artificial em problemas reais de negócio.Este projeto foi desenvolvido a partir dos conhecimentos e desafio proposto na Imersão — Engenharia de Dados com IA, promovida pela Alura.
+Mais do que concluir um exercício, o objetivo foi transformar o aprendizado em uma solução funcional, documentada e replicável.
+
+---
 
 ## 👤 Autor
 
