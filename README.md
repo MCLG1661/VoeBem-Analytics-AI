@@ -9,6 +9,9 @@ O projeto transforma dados públicos da **ANAC (Agência Nacional de Aviação C
 
 An aviation analytics project using Brazilian ANAC open data, Databricks, Apache Spark, Delta Lake and Unity Catalog. A Bronze–Silver–Gold medallion pipeline prepares operational KPIs for airlines, routes, airports and monthly trends. Databricks Genie provides a natural-language interface to the analytical tables.
 
+
+[Business Case Study — English](BUSINESS_CASE.md)
+
 ---
 
 ## 🎯 Objetivo
