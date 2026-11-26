@@ -4,6 +4,11 @@ Projeto de Engenharia de Dados e Inteligência Artificial para análise de dados
 
 O projeto transforma dados públicos da **ANAC (Agência Nacional de Aviação Civil)** em uma arquitetura analítica baseada no padrão **Medallion Architecture — Bronze, Silver e Gold**, culminando em uma camada de KPIs e em um agente de IA capaz de responder perguntas de negócio em linguagem natural.
 
+
+## English overview
+
+An aviation analytics project using Brazilian ANAC open data, Databricks, Apache Spark, Delta Lake and Unity Catalog. A Bronze–Silver–Gold medallion pipeline prepares operational KPIs for airlines, routes, airports and monthly trends. Databricks Genie provides a natural-language interface to the analytical tables.
+
 ---
 
 ## 🎯 Objetivo
